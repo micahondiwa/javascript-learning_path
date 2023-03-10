@@ -1,5 +1,4 @@
-# Event Listiners
-
+# JavaScript Learning Path
 
 ## Technologies
 - Visual Studio Code ```1.73```
