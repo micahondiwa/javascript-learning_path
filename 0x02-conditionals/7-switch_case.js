@@ -1,5 +1,5 @@
-/*
-- The switch keyword with multiple cases.
+/**
+* The switch keyword with multiple cases.
 */
 
 let athleteFinalPosition = "first place";
