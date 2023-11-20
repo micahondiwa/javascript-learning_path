@@ -1,5 +1,5 @@
 /*
-Checks if a value is classied as a boolean
+Checks if a value is classified as a boolean
 primitive.
 */
 
