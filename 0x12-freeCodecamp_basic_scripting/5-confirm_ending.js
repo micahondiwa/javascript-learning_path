@@ -4,5 +4,5 @@ ends with the given target string (target)
 */
 
 function confirmEnding(str, target) {
-  return str + target;
+  return str.slice(str.length - target.length) === target;
 }
