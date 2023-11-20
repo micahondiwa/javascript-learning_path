@@ -1,0 +1,5 @@
+/*
+Returns true if the string in the first element
+of the array contains all of the letters of the 
+string im the second element of the array.
+*/
