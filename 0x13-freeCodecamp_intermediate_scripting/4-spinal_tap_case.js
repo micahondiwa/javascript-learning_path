@@ -4,9 +4,9 @@ all-lowercase-words-joned-by-dashes.
 */
 
 function spinalCase(str) {
-  let regex = /\S+|_+/gi;
+  let regex = /\s+|_+/g;
 
-  str = str.replace(/([a-z])([A-Z])/gi, "$1 $2");
+  str = str.replace(/([a-z])([A-Z])/g, "$1 $2");
 
   return str.replace(regex, "-").toLowerCase();
 }
