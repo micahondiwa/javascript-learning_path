@@ -1,7 +1,7 @@
 /*
 Returns the lowest index at which a value (num) should
 be inserted inot an array (arr) once it has been
-sorted.
+sorted
 */
 
 function getIndexToIns(arr, num) {
